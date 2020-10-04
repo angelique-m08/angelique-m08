@@ -1,3 +1,5 @@
+![Cover] (https://raw.githubusercontent.com/angelique-m08/angelique-m08/main/img/Banner.png)
+
 ### Angélique Mora - angelique-m08 👩🏻‍
 
 Hi, I'm Angelique, I'm a French student. After a bachelor's and a master's degree in biology, I have just reconverted myself as a web developer. I took a crash course at the Wild Code School in March 2020 and I'm currently doing an internship in a startup where I'm working on a project in React and Typescript.
