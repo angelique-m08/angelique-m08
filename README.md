@@ -1,4 +1,10 @@
-### Hi there 👋
+### Angélique Mora - angelique-m08 👋
+
+Hi I'm Angelique, I'm a French web developer student since March 2020. I'm currently in intership in a startup and I'm working on React and Typescript. 
+
+### Get in touch
+- Contact me on linkedin: <a href="https://www.linkedin.com/in/angeliquemora/">💻</a>
+- Send me an email: <a href="mailto:mora.angelique@gmail.com">📧</a>
 
 <!--
 **angelique-m08/angelique-m08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
