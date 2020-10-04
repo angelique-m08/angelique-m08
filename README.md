@@ -1,6 +1,6 @@
-### Angélique Mora - angelique-m08 👋
+### Angélique Mora - angelique-m08 👩🏻‍
 
-Hi I'm Angelique, I'm a French web developer student since March 2020. I'm currently in intership in a startup and I'm working on React and Typescript. 
+Hi, I'm Angelique, I'm a French student. After a bachelor's and a master's degree in biology, I have just reconverted myself as a web developer. I took a crash course at the Wild Code School in March 2020 and I'm currently doing an internship in a startup where I'm working on a project in React and Typescript.
 
 ### Get in touch
 - Contact me on linkedin: <a href="https://www.linkedin.com/in/angeliquemora/">💻</a>
