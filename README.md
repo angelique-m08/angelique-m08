@@ -1,4 +1,4 @@
-![Cover](https://raw.githubusercontent.com/angelique-m08/angelique-m08/main/img/newBanner.png)
+![Cover](https://raw.githubusercontent.com/angelique-m08/angelique-m08/main/img/LinkedIn-Banner.png)
 
 ### Angélique Mora - angelique-m08 👩🏻‍
 
